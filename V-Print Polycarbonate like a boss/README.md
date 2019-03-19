@@ -1,3 +1,5 @@
+Polycarbonate Print Profile
+
 This is my Polycarbonate profile for Slic3r PE. Just load it as a print settings profile. 
 You will have to create a new custom material yourself, as every brand of PC needs a different temp. 
 For me 290C on the nozzle with the max bed heat (120C) worked fine. 
